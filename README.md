@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner-editorial.svg" width="100%" alt="Nicolas — devnicozz"/>
+<img src="./assets/banner-motion-v2.svg" width="100%" alt="Nicolas — devnicozz"/>
+
+<br>
+
+<img src="./assets/tech-ticker.svg" width="100%" alt="Tech ticker"/>
 
 </div>
 
@@ -10,9 +14,9 @@
 
 Estudante de **Técnico em Informática para Internet** e desenvolvedor web em formação.
 
-Gosto de transformar ideias em interfaces, sistemas e produtos digitais que sejam simples de usar e bem construídos.
+Crio interfaces, sistemas e produtos digitais com foco em experiência, identidade visual e funcionamento real.
 
-**Code · Design · Build · Improve**
+**Web Developer · Code · Design · Build · Improve**
 
 Sempre criando algo novo.
 
@@ -20,7 +24,19 @@ Sempre criando algo novo.
 
 ## Ferramentas
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Android` · `Git` · `GitHub` · `Cloudflare` · `Figma` · `MySQL`
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=E11D2E" />
+<img src="https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=css3&logoColor=E11D2E" />
+<img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E11D2E" />
+<img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=E11D2E" />
+<img src="https://img.shields.io/badge/Android-090909?style=for-the-badge&logo=android&logoColor=E11D2E" />
+<img src="https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=E11D2E" />
+<img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=E11D2E" />
+<img src="https://img.shields.io/badge/Cloudflare-090909?style=for-the-badge&logo=cloudflare&logoColor=E11D2E" />
+<img src="https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=E11D2E" />
+
+</div>
 
 ---
 
@@ -38,7 +54,7 @@ Sempre criando algo novo.
 
 <br>
 
-**Face Fish** — rede social e plataforma mobile voltada para pescadores, com perfis, feed, localização e interação.
+**Face Fish** — plataforma social mobile voltada para pescadores, com perfis, feed, localização e interação.
 
 **StudyFlow** — projeto de estudo focado em organização, conteúdo e experiência acadêmica.
 
@@ -46,17 +62,19 @@ Sempre criando algo novo.
 
 ---
 
-## Atualmente
+## Agora
 
-- aprofundando **HTML, CSS e JavaScript**
-- estudando desenvolvimento para web e mobile
-- criando projetos próprios para praticar produto, interface e código
-- melhorando meus projetos a cada versão
+`> estudando` desenvolvimento web e mobile  
+`> construindo` projetos próprios  
+`> melhorando` HTML, CSS e JavaScript  
+`> criando` interfaces e experiências digitais
 
 ---
 
 <div align="center">
 
-<sub>devnicozz · building one project at a time.</sub>
+**CODE • DESIGN • BUILD • IMPROVE**
+
+<sub>@devnicozz</sub>
 
 </div>
