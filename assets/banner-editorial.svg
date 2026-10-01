@@ -1,0 +1,32 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="270" rx="18" fill="#080808"/>
+  <rect x="1" y="1" width="1198" height="268" rx="17" stroke="#202020"/>
+
+  <rect x="0" y="0" width="8" height="270" rx="4" fill="#D71920"/>
+
+  <text x="54" y="66" fill="#7A7A7A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2">PORTFOLIO / GITHUB PROFILE</text>
+
+  <text x="54" y="136" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="-2">NICOLAS</text>
+  <text x="54" y="177" fill="#D71920" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700">@devnicozz</text>
+
+  <text x="54" y="218" fill="#B8B8B8" font-family="Arial, Helvetica, sans-serif" font-size="18">Técnico em Informática para Internet • Web Developer</text>
+  <text x="54" y="244" fill="#777777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Code • Design • Build • Improve</text>
+
+  <line x1="760" y1="44" x2="760" y2="226" stroke="#242424"/>
+
+  <text x="802" y="74" fill="#6F6F6F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">01  ROLE</text>
+  <text x="802" y="98" fill="#E8E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">student / web developer</text>
+
+  <text x="802" y="136" fill="#6F6F6F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">02  STACK</text>
+  <text x="802" y="160" fill="#E8E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">html · css · javascript</text>
+
+  <text x="802" y="198" fill="#6F6F6F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">03  STATUS</text>
+  <circle cx="812" cy="222" r="5" fill="#D71920">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="828" y="227" fill="#E8E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">always building</text>
+
+  <rect x="1096" y="44" width="54" height="4" fill="#D71920">
+    <animate attributeName="x" values="1040;1096;1040" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
