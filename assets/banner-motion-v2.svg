@@ -1,0 +1,100 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505"/>
+      <stop offset=".55" stop-color="#0B0808"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FF4D5A"/>
+      <stop offset=".5" stop-color="#E11D2E"/>
+      <stop offset="1" stop-color="#7E0B14"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="320" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="19" stroke="#262626"/>
+
+  <g clip-path="url(#clip)">
+    <g opacity=".06" stroke="#FFFFFF">
+      <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
+      <path d="M120 0V320M240 0V320M360 0V320M480 0V320M600 0V320M720 0V320M840 0V320M960 0V320M1080 0V320"/>
+    </g>
+
+    <!-- fast red streaks -->
+    <g opacity=".9">
+      <rect x="-260" y="16" width="220" height="5" rx="2.5" fill="#E11D2E">
+        <animate attributeName="x" values="-260;1280" dur="1.35s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-420" y="288" width="360" height="3" rx="1.5" fill="#FF4D5A" opacity=".65">
+        <animate attributeName="x" values="-420;1280" dur="1.8s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="1280" y="76" width="280" height="2" rx="1" fill="#A40E18" opacity=".8">
+        <animate attributeName="x" values="1280;-320" dur="1.55s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- diagonal motion -->
+    <g opacity=".12">
+      <path d="M-200 330L30 -10H120L-110 330H-200Z" fill="#E11D2E">
+        <animateTransform attributeName="transform" type="translate" values="0 0;1450 0" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M-500 330L-270 -10H-215L-445 330H-500Z" fill="#FF4D5A">
+        <animateTransform attributeName="transform" type="translate" values="0 0;1600 0" dur="2.1s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- scanline -->
+    <rect x="0" y="-18" width="1200" height="18" fill="#E11D2E" opacity=".10" filter="url(#glow)">
+      <animate attributeName="y" values="-18;320" dur="1.75s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="-2" width="1200" height="2" fill="#FF4D5A" opacity=".55">
+      <animate attributeName="y" values="-2;320" dur="1.75s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0" y="0" width="7" height="320" rx="3.5" fill="#E11D2E"/>
+
+  <text x="54" y="60" fill="#7B7B7B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">DEV PROFILE / 2026</text>
+
+  <text x="54" y="136" fill="#F7F7F7" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">NICOLAS</text>
+  <text x="54" y="182" fill="#E11D2E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="27" font-weight="700">@devnicozz</text>
+
+  <text x="54" y="228" fill="#D0D0D0" font-family="Arial, Helvetica, sans-serif" font-size="18">Técnico em Informática para Internet • Web Developer</text>
+  <text x="54" y="258" fill="#8F8F8F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">CODE • DESIGN • BUILD • IMPROVE</text>
+
+  <!-- terminal panel -->
+  <g transform="translate(780 58)">
+    <rect width="360" height="190" rx="14" fill="#0A0A0A" stroke="#2B2B2B"/>
+    <circle cx="22" cy="20" r="4" fill="#E11D2E"/>
+    <circle cx="38" cy="20" r="4" fill="#444"/>
+    <circle cx="54" cy="20" r="4" fill="#444"/>
+    <text x="22" y="54" fill="#666" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">$ whoami</text>
+    <text x="22" y="78" fill="#F0F0F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">student / web developer</text>
+    <text x="22" y="108" fill="#666" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">$ stack</text>
+    <text x="22" y="132" fill="#F0F0F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">html css javascript</text>
+    <text x="22" y="162" fill="#666" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">$ status</text>
+    <circle cx="29" cy="180" r="4" fill="#E11D2E">
+      <animate attributeName="opacity" values=".2;1;.2" dur=".7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="42" y="184" fill="#F0F0F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">building...</text>
+    <rect x="123" y="170" width="8" height="16" fill="#E11D2E">
+      <animate attributeName="opacity" values="1;0;1" dur=".55s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- live badge -->
+  <g transform="translate(1010 18)">
+    <rect width="130" height="28" rx="14" fill="#120708" stroke="#491016"/>
+    <circle cx="18" cy="14" r="4" fill="#FF3D4A">
+      <animate attributeName="r" values="3;6;3" dur=".8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="31" y="19" fill="#F5F5F5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">LIVE BUILD</text>
+  </g>
+</svg>
