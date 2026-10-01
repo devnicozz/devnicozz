@@ -1,0 +1,53 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05080F"/>
+      <stop offset="0.48" stop-color="#071426"/>
+      <stop offset="1" stop-color="#02050A"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="180" y1="100" x2="840" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#24C8FF"/>
+      <stop offset="0.5" stop-color="#1479FF"/>
+      <stop offset="1" stop-color="#6A5CFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(830 130) rotate(150) scale(430 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E76FF" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#0E76FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+
+  <g opacity="0.28">
+    <path d="M0 302C138 250 245 334 390 286C570 226 640 313 802 257C965 201 1046 223 1200 168" stroke="#1487FF"/>
+    <path d="M0 324C162 284 294 350 445 308C613 261 713 327 874 282C1020 242 1097 250 1200 211" stroke="#0F5FCF"/>
+  </g>
+
+  <g opacity="0.12">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200" stroke="#5DBBFF"/>
+    <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360" stroke="#5DBBFF"/>
+  </g>
+
+  <circle cx="1000" cy="82" r="150" fill="#0B65FF" opacity="0.11" filter="url(#soft)"/>
+  <circle cx="246" cy="292" r="130" fill="#11C5FF" opacity="0.08" filter="url(#soft)"/>
+
+  <rect x="62" y="62" width="62" height="62" rx="16" fill="#071321" stroke="#1E90FF" stroke-width="2"/>
+  <path d="M80 82L94 93L80 104M106 82L92 104" stroke="#2EC8FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="62" y="178" fill="#F5F9FF" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1">NICOLAS</text>
+  <text x="62" y="238" fill="url(#blue)" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1">@devnicozz</text>
+  <text x="64" y="286" fill="#98B7D9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="3">DESENVOLVEDOR WEB &amp; MOBILE</text>
+
+  <g transform="translate(880 228)">
+    <rect width="258" height="72" rx="18" fill="#07111D" stroke="#163E67"/>
+    <circle cx="38" cy="36" r="7" fill="#27D980"/>
+    <text x="58" y="31" fill="#E7F2FF" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">BUILDING • LEARNING</text>
+    <text x="58" y="52" fill="#5C96D2" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">CREATING DIGITAL PRODUCTS</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="27.25" stroke="#163A5F" stroke-width="1.5"/>
+</svg>
