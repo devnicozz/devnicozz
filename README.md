@@ -10,9 +10,9 @@ Construindo experiências digitais modernas, rápidas e responsivas.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Building-0d1117?style=for-the-badge&logo=github&logoColor=2f81f7" alt="Status"/>
-<img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-0d1117?style=for-the-badge&logo=code&logoColor=2f81f7" alt="Focus"/>
-<img src="https://img.shields.io/badge/Brasil-Dev-0d1117?style=for-the-badge&logo=googlemaps&logoColor=2f81f7" alt="Brasil"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-0D0D0D?style=for-the-badge&logo=github&logoColor=FF3B3B&labelColor=0D0D0D&color=7A0000" alt="Status"/>
+<img src="https://img.shields.io/badge/FOCO-WEB%20%26%20MOBILE-0D0D0D?style=for-the-badge&logo=code&logoColor=FF3B3B&labelColor=0D0D0D&color=7A0000" alt="Foco"/>
+<img src="https://img.shields.io/badge/BRASIL-DEVELOPER-0D0D0D?style=for-the-badge&logo=googlemaps&logoColor=FF3B3B&labelColor=0D0D0D&color=7A0000" alt="Brasil"/>
 
 </div>
 
@@ -53,29 +53,19 @@ Sou desenvolvedor focado em criar aplicações modernas, interfaces responsivas 
   <img src="./assets/studyflow-card.svg" width="32%" alt="StudyFlow"/>
 </a>
 <a href="https://github.com/devnicozz/paulo-oliani-cms">
-  <img src="./assets/cms-card.svg" width="32%" alt="CMS Paulo Oliani"/>
+  <img src="./assets/cms-card.svg" width="32%" alt="CMS Studio"/>
 </a>
 
 </div>
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devnicozz&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicozz&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top languages"/>
-
-</div>
-
----
-
-## Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devnicozz&theme=github-compact&hide_border=true&bg_color=00000000&area=true" width="100%" alt="Activity graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devnicozz&show_icons=true&bg_color=0D0D0D&title_color=FF4D4D&text_color=FFFFFF&icon_color=FF3B3B&border_color=5A1515&hide_border=false&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicozz&layout=compact&bg_color=0D0D0D&title_color=FF4D4D&text_color=FFFFFF&border_color=5A1515&hide_border=false" alt="Top languages"/>
 
 </div>
 
@@ -83,7 +73,7 @@ Sou desenvolvedor focado em criar aplicações modernas, interfaces responsivas 
 
 <div align="center">
 
-**Building • Learning • Creating**
+**BUILDING • LEARNING • CREATING**
 
 `@devnicozz`
 
