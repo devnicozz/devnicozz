@@ -1,96 +1,62 @@
 <div align="center">
 
-<img src="./assets/banner-animated-red.svg" width="100%" alt="Banner animado devnicozz"/>
+<img src="./assets/banner-editorial.svg" width="100%" alt="Nicolas — devnicozz"/>
 
-<br/>
+</div>
 
-### Estudante de Técnico em Informática para Internet
+<br>
 
-**Web Developer • Code • Design • Build • Improve**
+## Sobre
 
-HTML • CSS • JavaScript  
+Estudante de **Técnico em Informática para Internet** e desenvolvedor web em formação.
+
+Gosto de transformar ideias em interfaces, sistemas e produtos digitais que sejam simples de usar e bem construídos.
+
+**Code · Design · Build · Improve**
+
 Sempre criando algo novo.
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-050505?style=for-the-badge&labelColor=050505&color=8B0000" alt="Status"/>
-<img src="https://img.shields.io/badge/FOCO-WEB%20%26%20MOBILE-050505?style=for-the-badge&labelColor=050505&color=8B0000" alt="Foco"/>
-<img src="https://img.shields.io/badge/ESTUDANTE-TÉCNICO%20EM%20INFORMÁTICA%20PARA%20INTERNET-050505?style=for-the-badge&labelColor=050505&color=8B0000" alt="Formação"/>
+## Ferramentas
 
-</div>
+`HTML` · `CSS` · `JavaScript` · `React` · `Android` · `Git` · `GitHub` · `Cloudflare` · `Figma` · `MySQL`
 
 ---
 
-## Sobre mim
-
-Sou estudante de **Técnico em Informática para Internet** e desenvolvedor focado em criar aplicações modernas, interfaces responsivas e sistemas completos.
-
-**Web Developer • Code • Design • Build • Improve**
-
-Sempre criando algo novo e evoluindo meus conhecimentos em desenvolvimento.
-
-**Atualmente trabalhando com:**
-- Desenvolvimento Web
-- Aplicativos Mobile
-- UI/UX
-- Sistemas e dashboards
-- Inteligência Artificial aplicada a produtos digitais
-- Cloudflare e deploy
-
----
-
-## Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=FF3B3B" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=FF3B3B" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=FF3B3B" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=FF3B3B" alt="React"/>
-<img src="https://img.shields.io/badge/Android-050505?style=for-the-badge&logo=android&logoColor=FF3B3B" alt="Android"/>
-<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=FF3B3B" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF3B3B" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Cloudflare-050505?style=for-the-badge&logo=cloudflare&logoColor=FF3B3B" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma&logoColor=FF3B3B" alt="Figma"/>
-<img src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=FF3B3B" alt="MySQL"/>
-
-</div>
-
----
-
-## Projetos em destaque
+## Projetos selecionados
 
 <div align="center">
 
 <a href="https://github.com/devnicozz/-cardev-projeto--facefish-">
-  <img src="./assets/facefish-red.svg" width="32%" alt="Face Fish"/>
+  <img src="./assets/facefish-editorial.svg" width="32%" alt="Face Fish"/>
 </a>
-<a href="https://github.com/devnicozz/studyflow-android">
-  <img src="./assets/studyflow-red.svg" width="32%" alt="StudyFlow"/>
-</a>
-<a href="https://github.com/devnicozz/paulo-oliani-cms">
-  <img src="./assets/cms-studio-red.svg" width="32%" alt="CMS Studio"/>
-</a>
+<img src="./assets/studyflow-editorial.svg" width="32%" alt="StudyFlow"/>
+<img src="./assets/cms-editorial.svg" width="32%" alt="CMS Studio"/>
 
 </div>
 
----
+<br>
 
-## GitHub Stats
+**Face Fish** — rede social e plataforma mobile voltada para pescadores, com perfis, feed, localização e interação.
 
-<div align="center">
+**StudyFlow** — projeto de estudo focado em organização, conteúdo e experiência acadêmica.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devnicozz&show_icons=true&bg_color=050505&title_color=FF3B3B&text_color=FFFFFF&icon_color=FF3B3B&border_color=5A1515&hide_border=false&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicozz&layout=compact&bg_color=050505&title_color=FF3B3B&text_color=FFFFFF&border_color=5A1515&hide_border=false" alt="Top languages"/>
-
-</div>
+**CMS Studio** — sistema de gerenciamento de conteúdo para sites, portfólios e dashboards.
 
 ---
 
+## Atualmente
+
+- aprofundando **HTML, CSS e JavaScript**
+- estudando desenvolvimento para web e mobile
+- criando projetos próprios para praticar produto, interface e código
+- melhorando meus projetos a cada versão
+
+---
+
 <div align="center">
 
-**BUILDING • LEARNING • CREATING**
-
-`@devnicozz`
+<sub>devnicozz · building one project at a time.</sub>
 
 </div>
