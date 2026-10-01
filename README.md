@@ -4,16 +4,15 @@
 
 <br/>
 
-# Nicolas — @devnicozz
-
 ### Desenvolvedor Web & Mobile
 
-Transformando ideias em aplicações modernas, sistemas e experiências digitais.
+Construindo experiências digitais modernas, rápidas e responsivas.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=devnicozz&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/devnicozz?style=for-the-badge&label=Seguidores" alt="Followers"/>
+<img src="https://img.shields.io/badge/Status-Building-0d1117?style=for-the-badge&logo=github&logoColor=2f81f7" alt="Status"/>
+<img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-0d1117?style=for-the-badge&logo=code&logoColor=2f81f7" alt="Focus"/>
+<img src="https://img.shields.io/badge/Brasil-Dev-0d1117?style=for-the-badge&logo=googlemaps&logoColor=2f81f7" alt="Brasil"/>
 
 </div>
 
@@ -21,20 +20,19 @@ Transformando ideias em aplicações modernas, sistemas e experiências digitais
 
 ## Sobre mim
 
-Sou desenvolvedor focado na criação de aplicações modernas, interfaces responsivas e sistemas completos.
+Sou desenvolvedor focado em criar aplicações modernas, interfaces responsivas e sistemas completos.
 
-Atualmente venho trabalhando em projetos próprios envolvendo:
-
+**Atualmente trabalhando com:**
 - Desenvolvimento Web
 - Aplicativos Mobile
-- Sistemas de gerenciamento
 - UI/UX
-- Inteligência Artificial aplicada a projetos
-- Cloudflare e deploy de aplicações
+- Sistemas e dashboards
+- Inteligência Artificial aplicada a produtos digitais
+- Cloudflare e deploy
 
 ---
 
-## Tecnologias
+## Stack
 
 <div align="center">
 
@@ -46,24 +44,28 @@ Atualmente venho trabalhando em projetos próprios envolvendo:
 
 ## Projetos em destaque
 
-### Face Fish
-Rede social e plataforma voltada para pescadores, com foco em experiência mobile, perfis, feed, localização e interação entre usuários.
+<div align="center">
 
-### StudyFlow
-Plataforma de estudos desenvolvida para organizar conteúdos, exercícios, desempenho e rotina acadêmica.
+<a href="https://github.com/devnicozz/-cardev-projeto--facefish-">
+  <img src="./assets/facefish-card.svg" width="32%" alt="Face Fish"/>
+</a>
+<a href="https://github.com/devnicozz/studyflow-android">
+  <img src="./assets/studyflow-card.svg" width="32%" alt="StudyFlow"/>
+</a>
+<a href="https://github.com/devnicozz/paulo-oliani-cms">
+  <img src="./assets/cms-card.svg" width="32%" alt="CMS Paulo Oliani"/>
+</a>
 
-### CMS Paulo Oliani
-Sistema de gerenciamento de conteúdo para administração de portfólio e projetos fotográficos.
+</div>
 
 ---
 
-## Estatísticas
+## GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=devnicozz&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicozz&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devnicozz&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicozz&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top languages"/>
 
 </div>
 
@@ -73,7 +75,7 @@ Sistema de gerenciamento de conteúdo para administração de portfólio e proje
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devnicozz&theme=github-compact&hide_border=true&bg_color=00000000" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devnicozz&theme=github-compact&hide_border=true&bg_color=00000000&area=true" width="100%" alt="Activity graph"/>
 
 </div>
 
@@ -81,8 +83,8 @@ Sistema de gerenciamento de conteúdo para administração de portfólio e proje
 
 <div align="center">
 
-### Building. Learning. Creating.
+**Building • Learning • Creating**
 
-`devnicozz`
+`@devnicozz`
 
 </div>
